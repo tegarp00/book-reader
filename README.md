@@ -4,7 +4,7 @@
 
 A web application that enhances the reading experience by allowing users to interact with book content through various features.
 
-![BOOK READER APP]()
+![BOOK READER APP](https://raw.githubusercontent.com/tegarp00/book-reader/refs/heads/main/Screenshot%202024-09-25%20at%2023.28.09.png)
 
 ## Features
 
